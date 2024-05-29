@@ -1,0 +1,6 @@
+hub hg38embryoRNAHub
+shortLabel human_embryo_RNA-seq
+longLabel RNA-seq on human gametes and early stage samples
+genomesFile https://raw.githubusercontent.com/daveiles/embryo_RNA-seq/main/genomes.txt
+email daveiles@omicsltd.com
+descriptionUrl https://raw.githubusercontent.com/daveiles/embryo_RNA-seq/main/Human_early_stage_RNA-seq_UCSC_track_description.html
