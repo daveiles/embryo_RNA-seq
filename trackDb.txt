@@ -43,6 +43,21 @@ graphTypeDefault bar
 windowingFunction maximum 
 smoothingWindow off
 
+track SP2
+shortLabel sperm2
+longLabel sperm2 RNA-seq
+bigDataUrl https://s3-eu-west-1.amazonaws.com/omicsltd.millerstudents/Adel/hub/SPM2_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 51,0,204
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
 track PNZ
 shortLabel PNZ
 longLabel pronucleus RNA-seq 1
