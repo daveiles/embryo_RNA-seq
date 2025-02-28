@@ -31,7 +31,7 @@ smoothingWindow off
 track SP1
 shortLabel sperm
 longLabel sperm RNA-seq
-bigDataUrl https://s3-eu-west-1.amazonaws.com/omicsltd.millerstudents/Adel/hub/SP1_scaled.bw
+bigDataUrl https://s3-eu-west-1.amazonaws.com/omicsltd.millerstudents/Adel/hub/SPM1_scaled.bw
 type bigWig 0 10000
 maxHeightPixels 100:30:10
 viewLimits 0:5000
